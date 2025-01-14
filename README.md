@@ -22,11 +22,11 @@ Implemented platforms
 
 - [x] JVM
 - [x] Linux with xclip
-- [] Linux other
-- [] OSX
-- [] Windows
-- [] Windows cygwin
-- [] Node
+- [ ] Linux other
+- [ ] OSX
+- [ ] Windows
+- [ ] Windows cygwin
+- [ ] Node
 
 ## Goals
 
